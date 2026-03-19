@@ -1,6 +1,6 @@
 # 💻 My Cybersecurity Journey
 
-Hi, I'm learning cybersecurity step by step 🚀  
+Hi, I'm currently learning cybersecurity step by step 🚀  
 
 ## 🎯 Current Focus
 - Networking fundamentals  
